@@ -1,2 +1,1 @@
-# personal_projects
-Showing all of my personal projects. 
+# Project 1: Investigating the relations among NDVI, Albedo, and Precipitation over USA in summer months from 2005-2015.
