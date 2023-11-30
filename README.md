@@ -1,1 +1,1 @@
-Showing all of my personal projects during the Data exploration journey. 
+**Investigating the relations among NDVI, Albedo, and Precipitation over USA in summer months from 2005-2015**
